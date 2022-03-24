@@ -1,13 +1,24 @@
-body{
-        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background-image: url(./imagenes/fondo/Diseño\ sin\ título.png) ;
-        background-repeat: no-repeat;
-        background-position: center center;
-        height: 200%;
-        background-size: cover;
+.body1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(./imagenes/fondo/Diseño\ sin\ título.png) ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    background-size: auto;
+    
+    
 
-    }
 
+}
+.body{
+    font-family:'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
+    background-image: url(./imagenes/fondo/Diseño\ sin\ título.png) ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+    
+
+}
 .center {
     margin: auto;
     width: 50%;

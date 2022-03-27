@@ -36,3 +36,8 @@ body{
 
 .img{float: right;}
 
+.css{
+    width: 100%;
+    max-width: 300px;
+}
+

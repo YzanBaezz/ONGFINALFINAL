@@ -15,6 +15,8 @@ body{
     background-image: url(./imagenes/imagenes/fondo/Diseño\ sin\ título.png) ;
     background-repeat: no-repeat;
     background-position: center center;
+    width: 100%;
+    overflow: hidden;
     height: 100%;
     
 
@@ -79,3 +81,4 @@ body{
 .card{
     align-items: center;
 }
+

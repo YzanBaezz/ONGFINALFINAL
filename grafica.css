@@ -22,6 +22,8 @@ body{
 
 .fuente1{
     font-family:'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
+    text-align: center;
+    text-align: center;
 
 }
 
@@ -54,4 +56,26 @@ body{
 .ccc1{
     width: 50%;
     max-width: 100px;
+}
+.h1{
+    text-align:center;
+
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(134, 134, 134);
+    padding: 10px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.container{
+    text-align: center;
+
+}
+.col{
+    align-items: center;
+}
+.card{
+    align-items: center;
 }
